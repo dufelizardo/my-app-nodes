@@ -1,5 +1,5 @@
 # MY APP - Expo/React Native
-
+## ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dufelizardo.visitor-my-app-nodes) ![GitHub followers](https://img.shields.io/github/followers/dufelizardo.visitor-my-app-nodes?style=social) <img src="https://img.shields.io/badge/Completed-0%25-red"/>  <img src="https://img.shields.io/badge/public-Yes-green"/> <img src="https://img.shields.io/badge/Software Quality and Automated Testing-Yes-green"/>
 Este projeto faz parte da atividade prática da disciplina de **Teste Mobile** da pós-graduação em Engenharia de Qualidade de Software e Testes Automatizados. O aplicativo **MY APP** é uma aplicação desenvolvida com **React Native** e **Expo**, com o objetivo de explorar técnicas de desenvolvimento mobile multiplataforma e aplicar testes automatizados.
 
 ## Índice
